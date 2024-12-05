@@ -38,3 +38,5 @@ The `main.ipynb` notebook processes and visualizes a dataset of cyclist images. 
 ## Notes
 - The best.pt file is from 37 epochs of the model running. Greater accuracy can be achieved with more runs.
 
+## Implementation Video
+- A video of the model interacting with a video can be found [here](https://drive.google.com/file/d/126zKxap-N844K6GeLGoprixmJ5ZqybRC/view?usp=sharing)
