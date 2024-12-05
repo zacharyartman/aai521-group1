@@ -3,3 +3,6 @@ venv
 runs
 testing/.DS_Store
 .DS_Store
+video_frames
+video_frames_labels
+video_frames_with_bounding_boxes
