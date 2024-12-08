@@ -1,0 +1,7 @@
+
+train: /content/splits/train
+val: /content/splits/val
+test: /content/splits/test
+
+nc: 1
+names: ['cyclist']
